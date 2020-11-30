@@ -3,3 +3,5 @@ Melhore o ex061, perguntando para o usuário se ele quer mostrar mais alguns ter
 """
 
 print('salve')
+print('Testando')
+print('GitHub Desktop')
