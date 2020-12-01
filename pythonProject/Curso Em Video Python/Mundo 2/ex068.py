@@ -29,3 +29,4 @@ while True:
             break
     print('Vamos jogar novamente...')
     print(f'Numero de vitórias consecutivas = {v}')
+    print()
