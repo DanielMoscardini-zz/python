@@ -6,8 +6,8 @@ cont = ('zero', 'um', 'dois', 'tres', 'quatro', 'cinco', 'seis', 'sete', 'oito',
         'onze', 'doze', 'treze', 'catorze', 'quinze', 'dezesseis', 'dezessete', 'dezenovo', 'vinte')
 
 while True:
-        num = int(input('Digite um numero entre 0 e 20: '))
-        if 0 <= num <= 20:
-                break
-        print('Tente novamente')
+    num = int(input('Digite um numero entre 0 e 20: '))
+    if 0 <= num <= 20:
+        break
+    print('Tente novamente')
 print(f'Você digitou o numero {cont[num]}')
