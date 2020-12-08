@@ -28,27 +28,3 @@ num.pop(2)  # Remove o 3º elemento, que se encontra no 2º indice
 
 print(num)
 print(f'Essa lista tem {len(num)} elementos')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
